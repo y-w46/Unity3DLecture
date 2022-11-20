@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B02FA1B0-8B23-5D3A-9543-4A8CBF91695C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Player/PlayerAttackBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Script/Weapon/IWeaponControll.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Weapon/Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Player/PlayerAttackBehaviour.cs" Line="29" Column="6" />
+      <File FileName="Assets/Script/Enemy/EnemyController.cs" Line="19" Column="5" />
+      <File FileName="Assets/Script/Player/PlayerController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity3DLecture" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="Enemy" expanded="True" />
+                <Node name="Player" expanded="True">
+                  <Node name="PlayerAttackBehaviour.cs" selected="True" />
+                </Node>
+                <Node name="Weapon" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2b6b68ab-2153-4400-8aa8-974bc957f964" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

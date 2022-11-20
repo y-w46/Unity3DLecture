@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E6FF31CE-FB7A-3D5A-C504-209F4D9BC409}</ProjectGuid>
+    <ProjectGuid>{B02FA1B0-8B23-5D3A-9543-4A8CBF91695C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,6 +61,7 @@
     <Compile Include="Assets/Script/Player/PlayerAttackBehaviour.cs" />
     <Compile Include="Assets/Script/Weapon/IWeaponControll.cs" />
     <Compile Include="Assets/Script/Player/PlayerController.cs" />
+    <Compile Include="Assets/Script/Enemy/EnemyController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
